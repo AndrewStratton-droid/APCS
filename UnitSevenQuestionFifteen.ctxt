@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=UnitSevenQuestionFifteen
+comment1.params=arr\ target
+comment1.target=int\ seqSearch(int[],\ int)
+comment2.params=arr\ target
+comment2.target=int\ seqSearchAlt(int[],\ int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

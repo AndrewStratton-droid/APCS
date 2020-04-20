@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=UnitSevenQuestionTen
+comment1.params=firstList\ secondList
+comment1.target=boolean\ isReversed(java.util.ArrayList,\ java.util.ArrayList)
+comment2.params=firstList\ secondList
+comment2.target=boolean\ isReversedButWorksProperly(java.util.ArrayList,\ java.util.ArrayList)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
